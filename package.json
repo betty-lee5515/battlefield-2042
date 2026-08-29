@@ -1,0 +1,6 @@
+{
+  "name": "tool-lib13",
+  "version": "1.8.2",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
